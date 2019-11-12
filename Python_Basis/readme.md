@@ -1,1 +1,1 @@
-# get familiar with the powerful tool Python
+# Get familiar with the powerful tool Python
