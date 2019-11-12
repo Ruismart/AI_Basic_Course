@@ -1,1 +1,1 @@
-# Mathematics foundation
+# Master the mathematics foundation
